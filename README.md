@@ -1,4 +1,4 @@
-# Pokrmon 
+# Pokemon 
 
 Project of a Pokemon application to catalog different pokemon from an API
 
