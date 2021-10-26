@@ -1,6 +1,6 @@
 # Pokemon 
-
-Project of a Pokemon application to catalog different pokemon from an API
+    Project in which I put into practice everything I have learned about flutter.
+    using all kinds of widgets and BloC architecture
 
 ## Features 
     
