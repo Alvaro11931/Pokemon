@@ -1,6 +1,6 @@
 # Pokemon 
     Project in which I put into practice everything I have learned about flutter.
-    using all kinds.
+    using all kinds of widgets. 
 
 ## Features 
     
